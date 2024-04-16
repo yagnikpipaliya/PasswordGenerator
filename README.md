@@ -8,5 +8,3 @@
 
 ## 👨‍💻 Outcome
 [PasswordGenerator.webm](https://github.com/yagnikpipaliya/PasswordGenerator/assets/97233515/2f00c61b-6d78-4554-b2e8-4e5966dd2c0b)
-
-**`⚠️Note: This project only for educational purpose.`**
